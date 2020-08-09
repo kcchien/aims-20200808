@@ -5,7 +5,9 @@
 ---
 使用 pytesseract 套件對圖片進行OCR辨識
 
-[OCR Notebook](OCR/20200808-ocr.ipynb)
+[OCR Notebook 單機筆電版本](OCR/20200808-ocr.ipynb)
+
+[OCR Google Colab 版本](https://colab.research.google.com/drive/1_mYHAH9uWuMPnMQYy3Ca3Qwg2awdoVV_?usp=sharing)
 
 ## OpenCV 人臉辨識
 
